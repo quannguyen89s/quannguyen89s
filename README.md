@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:quann89.dev@gmail.com"><img src="https://img.shields.io/badge/Email-quann89.dev%40gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
   <a href="https://github.com/quannguyen89s"><img src="https://img.shields.io/badge/GitHub-quannguyen89s-181717?style=for-the-badge" alt="GitHub" /></a>
-  <a href="https://quannguyen89.vercel.app/"><img src="https://img.shields.io/badge/Portfolio?style=for-the-badge" alt="Portfolio" /></a>
+   <a href="https://cathomestay.studio"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Location-Da%20Nang%2C%20Vietnam-3B82F6?style=for-the-badge" alt="Location" />
 </p>
 

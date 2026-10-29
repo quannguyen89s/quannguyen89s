@@ -23,18 +23,18 @@
 
 <br />
 
-### $\color{#8B5CF6}{\text{About Me}}$
+### About Me
 
-Sinh viên năm cuối chuyên ngành $\color{#38BDF8}{\textbf{Kỹ thuật Phần mềm (Software Engineering)}}$ tại $\color{#EC4899}{\textbf{Đại học FPT Đà Nẵng}}$, định hướng $\color{#6366F1}{\textbf{Full-Stack Web Development}}$.
+Sinh viên năm cuối chuyên ngành **Kỹ thuật Phần mềm (Software Engineering)** tại **Đại học FPT Đà Nẵng**, định hướng **Full-Stack Web Development**.
 
-Đam mê phát triển các hệ thống web hoàn chỉnh với hiệu năng cao, từ thiết kế cơ sở dữ liệu, kiến trúc $\color{#10B981}{\textbf{RESTful API / WebSocket}}$ phía backend đến giao diện $\color{#F59E0B}{\textbf{React 19 \& Tailwind CSS}}$ hiện đại, mượt mà.
+Đam mê phát triển các hệ thống web hoàn chỉnh với hiệu năng cao, từ thiết kế cơ sở dữ liệu, kiến trúc **RESTful API / WebSocket** phía backend đến giao diện **React 19 & Tailwind CSS** hiện đại, mượt mà.
 
 ---
 
-### $\color{#8B5CF6}{\text{Tech Stack}}$
+### Tech Stack
 
 <p>
-  <b>$\color{#3178C6}{\text{Languages:}}$</b><br />
+  <img src="https://img.shields.io/badge/LANGUAGES-3178C6?style=for-the-badge" height="22" alt="Languages" /><br />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=222222" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square" alt="Java" />
@@ -44,7 +44,7 @@ Sinh viên năm cuối chuyên ngành $\color{#38BDF8}{\textbf{Kỹ thuật Ph�
 </p>
 
 <p>
-  <b>$\color{#06B6D4}{\text{Frontend:}}$</b><br />
+  <img src="https://img.shields.io/badge/FRONTEND-06B6D4?style=for-the-badge" height="22" alt="Frontend" /><br />
   <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&labelColor=20232A" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square" alt="Vite" />
@@ -53,7 +53,7 @@ Sinh viên năm cuối chuyên ngành $\color{#38BDF8}{\textbf{Kỹ thuật Ph�
 </p>
 
 <p>
-  <b>$\color{#10B981}{\text{Backend:}}$</b><br />
+  <img src="https://img.shields.io/badge/BACKEND-10B981?style=for-the-badge" height="22" alt="Backend" /><br />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square" alt="Express.js" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square" alt="Spring Boot" />
@@ -63,7 +63,7 @@ Sinh viên năm cuối chuyên ngành $\color{#38BDF8}{\textbf{Kỹ thuật Ph�
 </p>
 
 <p>
-  <b>$\color{#4169E1}{\text{Databases:}}$</b><br />
+  <img src="https://img.shields.io/badge/DATABASES-4169E1?style=for-the-badge" height="22" alt="Databases" /><br />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square" alt="PostgreSQL" />
@@ -71,7 +71,7 @@ Sinh viên năm cuối chuyên ngành $\color{#38BDF8}{\textbf{Kỹ thuật Ph�
 </p>
 
 <p>
-  <b>$\color{#F59E0B}{\text{Tools \& Services:}}$</b><br />
+  <img src="https://img.shields.io/badge/TOOLS_%26_SERVICES-F59E0B?style=for-the-badge" height="22" alt="Tools & Services" /><br />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" alt="Postman" />
@@ -82,10 +82,6 @@ Sinh viên năm cuối chuyên ngành $\color{#38BDF8}{\textbf{Kỹ thuật Ph�
 ---
 
 <div align="center">
-
-<p>
-  $\color{#6366F1}{\text{Open to Software Engineer / Full-Stack Developer opportunities • Let's connect!}}$
-</p>
 
 <!-- Animated Gradient Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:6366F1,50:8B5CF6,100:EC4899&height=80&section=footer" width="100%" alt="Footer Banner" />

@@ -25,15 +25,15 @@
 
 ### About Me
 
-Sinh viên năm cuối chuyên ngành **Kỹ thuật Phần mềm (Software Engineering)** tại **Đại học FPT Đà Nẵng**, định hướng **Full-Stack Web Development**.
+Final-year **Software Engineering** student at **FPT University Da Nang**, focusing on **Full-Stack Web Development**.
 
-Tập trung xây dựng các hệ thống web hoàn chỉnh với hiệu năng cao, từ thiết kế cơ sở dữ liệu, kiến trúc **RESTful API / WebSocket** phía backend đến giao diện người dùng **React 19 & Tailwind CSS v4** hiện đại, mượt mà.
+Passionate about building scalable, high-performance web applications—from database architecture and backend services using **RESTful APIs & WebSockets** to modern, responsive interfaces powered by **React 19 & Tailwind CSS v4**.
 
 ---
 
 ### Tech Stack
 
-| Phân mục | Công nghệ |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=222222" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge" alt="Java" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" /> |
 | **Frontend** | <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&labelColor=20232A" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge" alt="Vite" /> <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=for-the-badge" alt="React Router" /> |

@@ -36,26 +36,23 @@ const developer: FullStackEngineer = {
   name: "Nguyễn Anh Quân",
   location: "Da Nang, Vietnam",
   education: "FPT University Da Nang (Software Engineering)",
-  coreExpertise: {
-    frontend: ["React 19", "TypeScript", "Tailwind CSS v4", "Vite", "React Router"],
-    backend:  ["Java Spring Boot 3", "Spring Security", "Node.js", "Express.js"],
-    realtime: ["WebSocket (STOMP)", "RESTful APIs"],
-    database: ["MongoDB", "MySQL", "PostgreSQL", "Supabase"]
+  coreStack: {
+    frontend: ["React 19", "TypeScript", "Tailwind CSS v4", "Vite"],
+    backend:  ["Java Spring Boot 3", "Node.js", "Express.js"],
+    database: ["MongoDB", "MySQL"],
+    tools:    ["Git", "Postman"]
   },
-  architecture: ["Clean Architecture", "High-Scale Booking Engines", "Role-Based Access (RBAC)"],
-  status: "Open to Software Engineer & Full-Stack Developer Opportunities"
+  status: "Open for Software Engineer & Full-Stack Developer Opportunities"
 };
 ```
 
 <br />
 
+<!-- 🛠️ Core Tech Stack: Single Horizontal Line Format -->
 <div align="center">
 
-<!-- 🛠️ Animated Tech Wall (SkillIcons) -->
-<h3>🛠️ Tech Stack & Ecosystem</h3>
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,tailwind,vite,nodejs,express,spring,mongodb,mysql,postgres,supabase,git,github,postman&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,java,spring,nodejs,express,mongodb,mysql,git,postman" alt="Core Tech Stack" />
 </a>
 
 <br /><br />

@@ -1,32 +1,18 @@
 <div align="center">
 
-<!-- 🌌 Animated Gradient Header Banner with Particle Twinkle -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:00F2FE,30:4FACFE,70:6366F1,100:EC4899&height=230&section=header&text=Nguy%E1%BB%85n%20Anh%20Qu%C3%A2n&fontSize=44&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Creative%20Builder&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+# Nguyễn Anh Quân
+### Full-Stack Software Engineer
 
-<!-- ⚡ Glowing Neon Animated Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=75&lines=Full-Stack+Software+Engineer;React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Java+Spring+Boot+3+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Crafting+Modern+%26+High-Performance+Web+Apps" alt="Typing SVG" />
-</a>
+> Final-year Software Engineering student @ **FPT University Da Nang**  
+> Building scalable web applications, robust APIs, and modern interactive user experiences.
 
 <br />
 
-<!-- 🚀 Glowing Rounded Contact Buttons -->
-<p align="center">
-  <a href="mailto:quann89.dev@gmail.com"><img src="https://img.shields.io/badge/Email-quann89.dev%40gmail.com-6366F1?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/quannguyen89s"><img src="https://img.shields.io/badge/GitHub-quannguyen89s-8B5CF6?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://cathomestay.studio"><img src="https://img.shields.io/badge/Portfolio-cathomestay.studio-EC4899?style=flat&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Da%20Nang%2C%20Vietnam-00F2FE?style=flat&logo=google-maps&logoColor=black" alt="Location" />
-</p>
-
-<!-- 🌈 Animated Rainbow Gradient Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+[📬 Email](mailto:quann89.dev@gmail.com) &nbsp;•&nbsp; [💻 GitHub](https://github.com/quannguyen89s) &nbsp;•&nbsp; [🌐 Portfolio](https://cathomestay.studio) &nbsp;•&nbsp; 📍 Da Nang, Vietnam
 
 </div>
 
-<br />
+---
 
 ### 💻 Developer Profile
 
@@ -34,37 +20,49 @@
 // ⚡ Terminal: ~/quannguyen89s/developer.ts
 const developer: FullStackEngineer = {
   name: "Nguyễn Anh Quân",
-  location: "Da Nang, Vietnam",
+  role: "Full-Stack Software Engineer",
   education: "FPT University Da Nang (Software Engineering)",
-  coreStack: {
-    frontend: ["React 19", "TypeScript", "Tailwind CSS v4", "Vite"],
-    backend:  ["Java Spring Boot 3", "Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    tools:    ["Git", "Postman"]
-  },
-  status: "Open for Software Engineer & Full-Stack Developer Opportunities"
+  location: "Da Nang, Vietnam",
+  status: "Open for Software Engineer & Full-Stack Developer Roles",
+  contact: {
+    email: "quann89.dev@gmail.com",
+    github: "quannguyen89s",
+    portfolio: "https://cathomestay.studio"
+  }
 };
 ```
 
-<br />
+---
 
-<!-- 🛠️ Core Tech Stack: Single Horizontal Line Format -->
+### 🛠️ Core Tech Stack
+
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,java,spring,nodejs,express,mongodb,mysql,git,postman" alt="Core Tech Stack" />
-</a>
+<kbd>TypeScript</kbd> &nbsp;
+<kbd>React 19</kbd> &nbsp;
+<kbd>Tailwind CSS v4</kbd> &nbsp;
+<kbd>Vite</kbd> &nbsp;
+<kbd>Java</kbd> &nbsp;
+<kbd>Spring Boot 3</kbd> &nbsp;
+<kbd>Node.js</kbd> &nbsp;
+<kbd>Express.js</kbd> &nbsp;
+<kbd>MongoDB</kbd> &nbsp;
+<kbd>MySQL</kbd> &nbsp;
+<kbd>Git</kbd> &nbsp;
+<kbd>Postman</kbd>
 
-<br /><br />
+</div>
 
-<!-- 🔥 Live GitHub Streak Animation -->
-<a href="https://github.com/quannguyen89s">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quannguyen89s&theme=tokyonight&hide_border=true&background=0D1117&border=38BDF8&fire=FF4500" alt="GitHub Streak" />
-</a>
+---
 
-<br /><br />
+### ⚡ What I Do
 
-<!-- 🌊 Animated Gradient Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:00F2FE,30:4FACFE,70:6366F1,100:EC4899&height=100&section=footer" width="100%" alt="Footer Banner" />
+- **Frontend Development:** Crafting responsive, fluid web interfaces using **React 19**, **TypeScript**, and **Tailwind CSS v4**.
+- **Backend Engineering:** Designing robust RESTful APIs and real-time services with **Java Spring Boot 3** and **Node.js / Express**.
+- **Database & Architecture:** Structuring scalable data models with **MongoDB** and **MySQL**, adhering to clean architecture and RBAC authentication standards.
 
+---
+
+<div align="center">
+  <sub>Open for opportunities and collaborations • Feel free to connect via <a href="mailto:quann89.dev@gmail.com">Email</a>!</sub>
 </div>

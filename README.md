@@ -5,10 +5,10 @@
 
 <!-- ⚡ Glowing Neon Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=75&lines=Full-Stack+Software+Engineer;React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Java+Spring+Boot+3+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Crafting+Modern+%26+High-Performance+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=110&lines=Full-Stack+Software+Engineer;React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Java+Spring+Boot+3+%E2%80%A2+Node.js+%E2%80%A2+Express.js" alt="Typing SVG" />
 </a>
 
-<br />
+<br /><br />
 
 <!-- 🚀 Glowing Rounded Contact Buttons -->
 <p align="center">

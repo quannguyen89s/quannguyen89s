@@ -55,15 +55,6 @@ const developer: FullStackEngineer = {
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,java,spring,nodejs,express,mongodb,mysql,git,postman" alt="Core Tech Stack" />
 </a>
 
-<br /><br />
-
-<!-- 🔥 Live GitHub Streak Animation -->
-<a href="https://github.com/quannguyen89s">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quannguyen89s&theme=tokyonight&hide_border=true&background=0D1117&border=38BDF8&fire=FF4500" alt="GitHub Streak" />
-</a>
-
-<br /><br />
-
 <!-- 🌊 Animated Gradient Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:00F2FE,30:4FACFE,70:6366F1,100:EC4899&height=100&section=footer" width="100%" alt="Footer Banner" />
 

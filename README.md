@@ -16,7 +16,7 @@
   &nbsp;
   <a href="https://github.com/quannguyen89s"><img src="https://img.shields.io/badge/GitHub-quannguyen89s-8B5CF6?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://quannguyen89.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-cathomestay.studio-EC4899?style=flat&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://quannguyen89.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=flat&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Da%20Nang%2C%20Vietnam-00F2FE?style=flat&logo=google-maps&logoColor=black" alt="Location" />
 </p>
